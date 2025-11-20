@@ -5,6 +5,5 @@ def main():
     print('you wrote ', a)
     input() 
 
-
 if __name__ == "__main__":
     main()
